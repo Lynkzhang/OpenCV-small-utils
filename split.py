@@ -4,7 +4,7 @@ import cv2
 import numpy
 import os
 
-filedir='your/file/dir/'
+filedir='your/file/dir/' # make sure this ended with '/'
 
 def file_name(file_dir):   
 	L=[]   
