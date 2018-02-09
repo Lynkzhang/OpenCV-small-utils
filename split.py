@@ -6,7 +6,7 @@ import os
 
 filedir='your/file/dir/' # make sure this ended with '/'
 
-def file_name(file_dir):   
+def file_name(file_dir): # get all dir of pics and return them in a list
 	L=[]   
 	for root, dirs, files in os.walk(file_dir):  
 		for file in files:  
