@@ -1,6 +1,8 @@
-# RGBsplit
-This split a set of pictures into 3 channels 
+# OpenCV-small-utils
 
-These pictures' extension name should be jpg(or you need to modify the script)
+This repo contains some useful OpenCV python scripts.
 
-Split Background. -- seg.py
+
+Split a set of pictures into 3 channels -- split.py
+
+Remove background -- seg.py
